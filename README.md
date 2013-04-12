@@ -1,4 +1,3 @@
-backbone-templates
-==================
+# backbone-templates
 
-A place to store commonly starter templates.
+> A place to store commonly starter templates.
